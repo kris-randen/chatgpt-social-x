@@ -14,6 +14,7 @@
 		EEFEA8332A9D4F5500CA0717 /* socialXTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEFEA8322A9D4F5500CA0717 /* socialXTests.swift */; };
 		EEFEA83D2A9D4F5500CA0717 /* socialXUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEFEA83C2A9D4F5500CA0717 /* socialXUITests.swift */; };
 		EEFEA83F2A9D4F5500CA0717 /* socialXUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEFEA83E2A9D4F5500CA0717 /* socialXUITestsLaunchTests.swift */; };
+		EEFEA84C2A9D51D700CA0717 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEFEA84B2A9D51D700CA0717 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		EEFEA8382A9D4F5500CA0717 /* socialXUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = socialXUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEFEA83C2A9D4F5500CA0717 /* socialXUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socialXUITests.swift; sourceTree = "<group>"; };
 		EEFEA83E2A9D4F5500CA0717 /* socialXUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socialXUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EEFEA84B2A9D51D700CA0717 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				EEFEA8232A9D4F5300CA0717 /* ContentView.swift */,
 				EEFEA8252A9D4F5500CA0717 /* Assets.xcassets */,
 				EEFEA8272A9D4F5500CA0717 /* Preview Content */,
+				EEFEA84B2A9D51D700CA0717 /* ImagePicker.swift */,
 			);
 			path = socialX;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEFEA84C2A9D51D700CA0717 /* ImagePicker.swift in Sources */,
 				EEFEA8242A9D4F5300CA0717 /* ContentView.swift in Sources */,
 				EEFEA8222A9D4F5300CA0717 /* socialXApp.swift in Sources */,
 			);
